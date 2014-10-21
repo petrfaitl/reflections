@@ -1,0 +1,1 @@
+Interesting start; using terminal is not main chosen tool, esp when gui is available.
