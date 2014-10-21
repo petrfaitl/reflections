@@ -1,4 +1,0 @@
-When would you want to use a remote repository rather than keeping all your work local?
-1)Keeping files in sync between multiple machines; though it feels like a long-winded way of doing it esp manually 
-2)sharing codebase with others
-3)build a project portfolio
