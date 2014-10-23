@@ -1,0 +1,14 @@
+When would you want to use a remote repository rather than keeping all your work local?
+1)Keeping files in sync between multiple machines; though it feels like a long-winded way of doing it esp manually 
+2)sharing codebase with others
+3)build a project portfolio
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Well for my own use, I do not agree with the statement; so blank.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a clone of a GitHub repo to one’s own repo list. Clone is a local to local copy or GitHub to local copy of a repo. Branch splits local existing repo for new code, whilst keeping the project the same.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+All depends on teh number of participants. For sharing a project between differnt computers, I'd prefer dropbox. For sharing with multiple collaborators, I suspect GitHub has its advantages. Yet, according to a research a programmer writes about 250 lines a day. Now I know what they do for the reminder of the day...
